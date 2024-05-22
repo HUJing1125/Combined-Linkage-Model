@@ -1,0 +1,6 @@
+absubfb.txt filter=lfs diff=lfs merge=lfs -text
+meta_Books.json filter=lfs diff=lfs merge=lfs -text
+Books.csv filter=lfs diff=lfs merge=lfs -text
+Books1.csv filter=lfs diff=lfs merge=lfs -text
+Books2.csv filter=lfs diff=lfs merge=lfs -text
+BooksMeta.json filter=lfs diff=lfs merge=lfs -text
