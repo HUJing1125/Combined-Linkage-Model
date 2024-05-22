@@ -52,6 +52,7 @@ We present the statistics of the linked dataset in the following table:
 |:------------:|:-----:|:------------:|:-------------:|
 | MovieLens 1M | 3662  |     3598     |    99.33%     |
 | Amazon book  | 59877 |     5564     |     9.29%     |
+### Attention：Due to upload file size limitations, the full data is available in this link. https://pan.baidu.com/s/1viJWPV4-igkwjEgRqDANTQ?pwd=1234 
 
 * `movies.dat`,`users.dat`,`ratings.dat`
   * Original MovieLens 1M data.
