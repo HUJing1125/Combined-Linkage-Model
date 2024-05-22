@@ -1,0 +1,4 @@
+0143124064,Plutocrats: The Rise of the New Global Super-Rich and the Fall of Everyone Else,http://yago-knowledge.org/resource/Plutocrats__u0028_book_u0029_
+160819521X,Men We Reaped: A Memoir,http://yago-knowledge.org/resource/Men_We_Reaped
+0091932866,Hitman: My Real Life in the Cartoon World of Wrestling,http://yago-knowledge.org/resource/Hitman_u003A__My_Real_Life_in_the_Cartoon_World_of_Wrestling
+0201633612,Design Patterns: Elements of Reusable Object-Oriented Software,http://yago-knowledge.org/resource/Design_Patterns

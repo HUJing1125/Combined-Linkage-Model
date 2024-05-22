@@ -1,0 +1,45 @@
+0446386898,Watchmen,http://yago-knowledge.org/resource/Watchmen
+0140173153,Maus: My Father Bleeds History Pt. 1: A Survivor's Tale (Penguin Graphic Fiction),http://yago-knowledge.org/resource/Maus
+0340770732,Everything's Eventual : 14 Dark Tales,http://yago-knowledge.org/resource/Everything_u0027_s_Eventual
+055309503X,Emotional Intelligence: Why It Can Matter More than IQ,http://yago-knowledge.org/resource/Emotional_Intelligence
+006097625X,Understanding Comics: The Invisible Art,http://yago-knowledge.org/resource/Understanding_Comics
+1452114498,Chain Saw Confidential: How We Made the World's Most Notorious Horror Movie,http://yago-knowledge.org/resource/Chain_Saw_Confidential
+0691120277,The Meaning of Relativity: Including the Relativistic Theory of the Non-Symmetric Field - Fifth Edition (Princeton Science Library),http://yago-knowledge.org/resource/The_Meaning_of_Relativity
+1596983272,After America: Get Ready for Armageddon,http://yago-knowledge.org/resource/After_America
+0544227735,The Autistic Brain,http://yago-knowledge.org/resource/The_Autistic_Brain
+B00005TZY5,The Universe in a Nutshell,http://yago-knowledge.org/resource/The_Universe_in_a_Nutshell
+0099448793,The Wind-Up Bird Chronicle,http://yago-knowledge.org/resource/The_Wind-Up_Bird_Chronicle
+0141039507,Liberal Fascism: The Secret History of the Left from Mussolini to the Politics of Meaning,http://yago-knowledge.org/resource/Liberal_Fascism
+0545472946,Origami Yoda Pack: The Strange Case of Origami Yoda / Darth Paper Strikes Back: An Origami Yoda Book (Origami Yoda),http://yago-knowledge.org/resource/The_Strange_Case_of_Origami_Yoda
+160819521X,Men We Reaped: A Memoir,http://yago-knowledge.org/resource/Men_We_Reaped
+0062353640,The Viscount Who Loved Me (Bridgertons),http://yago-knowledge.org/resource/The_Viscount_Who_Loved_Me
+0156421178,Homage to Catalonia,http://yago-knowledge.org/resource/Homage_to_Catalonia
+0316029181,The Last Wish: Introducing The Witcher,http://yago-knowledge.org/resource/The_Last_Wish
+1849058261,Aspergirls: Empowering Females with Asperger Syndrome,http://yago-knowledge.org/resource/Aspergirls
+1603290257,MLA Handbook for Writers of Research Papers,http://yago-knowledge.org/resource/MLA_Handbook
+1444011693,Asterix and the Picts (Asterix Adventure),http://yago-knowledge.org/resource/Asterix_and_the_Picts
+140194065X,The Top Five Regrets of the Dying: A Life Transformed by the Dearly Departing,http://yago-knowledge.org/resource/The_Top_Five_Regrets_of_the_Dying
+1401237126,Red Hood and the Outlaws Vol. 1: REDemption (The New 52),http://yago-knowledge.org/resource/Red_Hood_and_the_Outlaws
+0316068225,This Is Water: Some Thoughts, Delivered on a Significant Occasion, about Living a Compassionate Life,http://yago-knowledge.org/resource/This_Is_Water
+0470528060,How to Cook Everything The Basics: All You Need to Make Great Food--With 1,000 Photos,http://yago-knowledge.org/resource/How_to_Cook_Everything
+0545210283,Ghostopolis,http://yago-knowledge.org/resource/Ghostopolis
+159643774X,This One Summer,http://yago-knowledge.org/resource/This_One_Summer
+0345536932,Full Catastrophe Living (Revised Edition): Using the Wisdom of Your Body and Mind to Face Stress, Pain, and Illness,http://yago-knowledge.org/resource/Full_Catastrophe_Living
+1936383195,Zombies and Shit,http://yago-knowledge.org/resource/Zombies_and_Shit
+0340835494,Vanishing Acts,http://yago-knowledge.org/resource/Vanishing_Acts
+0190233109,Plutopia: Nuclear Families, Atomic Cities, and the Great Soviet and American Plutonium Disasters,http://yago-knowledge.org/resource/Plutopia
+0765327449,The Hum and the Shiver: A Novel of the Tufa (Tufa Novels),http://yago-knowledge.org/resource/The_Hum_and_the_Shiver
+0062228862,The Riddle of the Labyrinth: The Quest to Crack an Ancient Code,http://yago-knowledge.org/resource/The_Riddle_of_the_Labyrinth
+0140439129,On the Origin of Species (Penguin Classics),http://yago-knowledge.org/resource/On_the_Origin_of_Species
+0201633612,Design Patterns: Elements of Reusable Object-Oriented Software,http://yago-knowledge.org/resource/Design_Patterns
+0890420629,Diagnostic and Statistical Manual of Mental Disorders DSM-IV,http://yago-knowledge.org/resource/Diagnostic_and_Statistical_Manual_of_Mental_Disorders
+0099410214,The Runaway Jury,http://yago-knowledge.org/resource/The_Runaway_Jury
+0976420015,A Course in Miracles Original edition Large Print,http://yago-knowledge.org/resource/A_Course_in_Miracles
+1451637616,Himmler's War,http://yago-knowledge.org/resource/Himmler_u0027_s_War
+0099458322,Kafka on the Shore,http://yago-knowledge.org/resource/Kafka_on_the_Shore
+0141039280,The Help,http://yago-knowledge.org/resource/The_Help
+0312358326,Babylon's Ark: The Incredible Wartime Rescue of the Baghdad Zoo,http://yago-knowledge.org/resource/Babylon_u0027_s_Ark
+0224095374,Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened,http://yago-knowledge.org/resource/Hyperbole_and_a_Half
+098478280X,Cracking the Coding Interview: 150 Programming Questions and Solutions,http://yago-knowledge.org/resource/Cracking_the_Coding_Interview
+0226104206,The Chicago Manual of Style, 16th Edition,http://yago-knowledge.org/resource/The_Chicago_Manual_of_Style
+0684844184,By David Maraniss: When Pride Still Mattered: A Life of Vince Lombardi Second,http://yago-knowledge.org/resource/When_Pride_Still_Mattered
