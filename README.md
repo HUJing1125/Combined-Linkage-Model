@@ -126,20 +126,18 @@ You can cite this dataset as below.
 
 ```
 
-
-@inproceedings{
-  author    = {
-               
-                 
-              },
-  title     = {}
-  booktitle = {}
-  pages     = {}
-  year      = {},
-  url       = {},
-  doi       = {},
+@inproceedings{10.1145/3725472.3725474,
+author = {Hu, Jing and Asmuni, Hishammuddin},
+title = {A Combined Linkage Model Based on Knowledge Graphs and Recommender Systems},
+year = {2025},
+isbn = {9798400710391},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3725472.3725474},
+doi = {10.1145/3725472.3725474},
 }
 
 
 ```
+
 
